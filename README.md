@@ -7,5 +7,6 @@ Sources
 Tools
 Documents
 
-
+| Name | Description |
+| --- | --- |
 | Continual & Complete Intelligence: A 21st Century Approach | Michael Wilson's whitepaper |
