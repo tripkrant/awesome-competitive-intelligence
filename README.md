@@ -6,3 +6,6 @@ Frameworks
 Sources
 Tools
 Documents
+
+
+| Continual & Complete Intelligence: A 21st Century Approach | Michael Wilson's whitepaper |
